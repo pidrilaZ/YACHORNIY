@@ -1,5 +1,12 @@
 {
     "users": [
-        
+        {
+            "id": 2,
+            "name": "doc",
+            "surname": "TL",
+            "photo_url": "",
+            "balance": -53
+            
+        }
     ]
 }
